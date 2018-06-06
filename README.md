@@ -5,7 +5,7 @@ It's do image-enhanced based on trvalency and not use any open-cv or emgur-cv 's
 ![alt tag](https://i.imgur.com/jegzzUD.png)<br>
 <br>
 ---<br>
-##Other Results:
+### Other Results:
 ![alt tag](https://i.imgur.com/QwbGOgr.png)<br>
 ![alt tag](https://i.imgur.com/ztDHTZ1.png)<br>
 ![alt tag](https://i.imgur.com/Z5Otvji.png)<br>
