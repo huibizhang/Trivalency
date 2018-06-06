@@ -1,0 +1,10 @@
+G:\我的雲端硬碟\project\ImageProcessing\ReadTest\ReadTest\ReadTest\bin\Debug\ReadTest.exe.config
+G:\我的雲端硬碟\project\ImageProcessing\ReadTest\ReadTest\ReadTest\bin\Debug\ReadTest.exe
+G:\我的雲端硬碟\project\ImageProcessing\ReadTest\ReadTest\ReadTest\bin\Debug\ReadTest.pdb
+G:\我的雲端硬碟\project\ImageProcessing\ReadTest\ReadTest\ReadTest\obj\Debug\ReadTest.csprojResolveAssemblyReference.cache
+G:\我的雲端硬碟\project\ImageProcessing\ReadTest\ReadTest\ReadTest\obj\Debug\ReadTest.Form1.resources
+G:\我的雲端硬碟\project\ImageProcessing\ReadTest\ReadTest\ReadTest\obj\Debug\ReadTest.Properties.Resources.resources
+G:\我的雲端硬碟\project\ImageProcessing\ReadTest\ReadTest\ReadTest\obj\Debug\ReadTest.csproj.GenerateResource.Cache
+G:\我的雲端硬碟\project\ImageProcessing\ReadTest\ReadTest\ReadTest\obj\Debug\ReadTest.exe
+G:\我的雲端硬碟\project\ImageProcessing\ReadTest\ReadTest\ReadTest\obj\Debug\ReadTest.pdb
+G:\我的雲端硬碟\project\ImageProcessing\ReadTest\ReadTest\ReadTest\obj\Debug\ReadTest.csproj.CoreCompileInputs.cache
